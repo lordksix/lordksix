@@ -21,8 +21,8 @@ Projects that uses Python, Java, JavaScript, Kotlin, or PHP.
 <br>
  
 <h2>⚡ Fun fact <br></h2>
-Star Wars aficionado. No greater magic and Star Wars magic.
-Formula 1 fan. World and time stops each time a Grand Prix is on. 
-Python Lover
+Star Wars aficionado. No greater magic and Star Wars magic.<br>
+Formula 1 fan. World and time stops each time a Grand Prix is on. <br>
+Python Lover.<br>
  ####
 
