@@ -13,7 +13,7 @@ If you have any questions related to Python, Java, JavaScript, or PHP, feel free
 <br>
  
 <h2>📫 How to reach me <br></h2>
-You can reach out to me via email at wladiantonio1812@gmail.com.
+You can reach out to me via email at wladimir.pasquel@urp.edu.pe
 <br>
 
 <h2>👯 I’m looking to collaborate on <br></h2>
