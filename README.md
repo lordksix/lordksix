@@ -5,7 +5,7 @@ I am currently learning Web Development at Microverse and working on Django base
 
  
 <h2>🌱 Learning <br></h2>
-Currently, I'm focusing on Javascript and Kotlin.
+Currently, I'm focusing on Javascript and Python.
 
  
 <h2>💬 Ask me about <br></h2>
