@@ -1,7 +1,7 @@
 <h3> Hi, I am Wladimir.👋 <h3>
 
 <h2>🔭 Current Work <br></h2>
-I am currently learning Web Development at Microverse and working on Django based solutions for small sized businesses.
+I am currently learning Web Development at Microverse and working on Django-based solutions for small-sized businesses.
 
  
 <h2>🌱 Learning <br></h2>
@@ -9,7 +9,7 @@ Currently, I'm focusing on Javascript and Python.
 
  
 <h2>💬 Ask me about <br></h2>
-If you have any questions related to Python, Java, JavaScript, or PHP, feel free to ask me. I'm always happy to help and share my knowledge.
+If you have any questions related to Python, Java, React, Ruby, or PHP, feel free to ask me. I'm always happy to help and share my knowledge.
 <br>
  
 <h2>📫 How to reach me <br></h2>
