@@ -3,6 +3,7 @@
   <div id="badges">
   <img src="lordksix-logos_transparent.png" alt="logo" width="240"  height="auto" blackground="#fff" margin="auto"/>
   <br>
+  <br>
     <a href="https://www.linkedin.com/in/wladpasquel/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
