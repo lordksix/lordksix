@@ -43,6 +43,8 @@ Python Lover.<br> </p>
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrianarivo&theme=tokyonight&background=000000)](https://git.io/streak-stats) 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarivo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lordksix&theme=tokyonight&background=000000)](https://git.io/streak-stats) 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=lordksix&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordksix&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
