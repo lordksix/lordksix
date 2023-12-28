@@ -21,7 +21,7 @@
 <br>
 
 <h3>🔭 Current Work<br></h3>
-<p align="left">I am currently learning Web Development at Microverse and working on Django-based solutions for small-sized businesses.</p>
+<p align="left">I am currently Full Stack Developer team lead at Juubix.</p>
 
 <h3>🌱 Learning<br></h3>
 <p align="left">Currently, I'm focusing on Typescript, Ruby, and Python.</p>
